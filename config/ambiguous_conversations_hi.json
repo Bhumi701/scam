@@ -1,0 +1,118 @@
+{
+  "ambiguous_safe": {
+    "urgency_without_money_request": [
+      "Jaldi reply kar dena please, kal ki booking confirm karni hai.",
+      "Turant confirm kar dijiye, table hold karna hai aapke liye.",
+      "Please jaldi batayein, school trip ka form aaj tak chahiye.",
+      "Urgent hai, appointment slot rakhne ke liye jaldi bataiye.",
+      "Jaldi RSVP kar dijiye event ke liye, aaj last din hai."
+    ],
+    "verification_without_otp": [
+      "Aapka registered email confirm kar sakte hain kya invoice ke liye?",
+      "Naam ki spelling verify kar dijiye certificate ke liye.",
+      "Delivery slot confirm kar dijiye is hafte ke liye.",
+      "Seat number confirm kar dijiye kal ki flight ke liye.",
+      "Membership number confirm kar dijiye file update karne ke liye."
+    ],
+    "unknown_caller_info_request": [
+      "Namaste, clinic se bol raha hoon, visit date confirm kar doon?",
+      "Ye courier service hai, aaj ghar par honge kya?",
+      "School office se bol raha hoon, pickup time confirm karna tha.",
+      "Electrician bol raha hoon, exact address share kar dijiye.",
+      "Society office se bol raha hoon, parking slot confirm kar raha hoon."
+    ],
+    "vague_banking_notification": [
+      "Aapke account mein ek update hai, app par check kar lijiye.",
+      "Aapka statement ready hai, portal par dekh sakte hain.",
+      "Account terms mein chota sa update hai, inbox mein details hain.",
+      "Card benefits mein routine update hua hai is quarter.",
+      "Account ka routine review ho raha hai, koi action nahi chahiye."
+    ],
+    "suspicious_survey": [
+      "Ek chota sa survey hai, do minute de sakte hain kya?",
+      "Recent shopping experience ke baare mein feedback chahiye.",
+      "Local transport ke baare mein ek research call hai.",
+      "Naye park facilities par feedback lena hai, thoda time hai?",
+      "Bus routes ke baare mein ek chota poll hai."
+    ],
+    "callback_requests": [
+      "Jab time mile call back kar dena, urgent nahi hai.",
+      "Clinic ko call back kar dijiye appointment confirm karne.",
+      "Technician ne visit schedule karne ke liye call back bola hai.",
+      "Salon ko call back kar dijiye Saturday booking ke liye.",
+      "Property agent ko call back kar dijiye viewing ke baare mein."
+    ],
+    "incomplete_impersonation": [
+      "Namaste, bank se bol raha hoon aapke card application ke baare mein.",
+      "Telecom provider se bol raha hoon plan upgrade ke baare mein.",
+      "Insurance company se bol raha hoon policy renewal ke baare mein.",
+      "Courier company se bol raha hoon aapke shipment ke baare mein.",
+      "Gym se bol raha hoon membership renewal ke baare mein."
+    ],
+    "promotional_offers": [
+      "Loyal customers ke liye is mahine special discount hai.",
+      "Agle subscription renewal par free upgrade milega aapko.",
+      "Naye collection ka early access mil raha hai aapko.",
+      "Is hafte sab orders par seasonal discount hai.",
+      "Agli purchase par loyalty reward mila hai aapko."
+    ]
+  },
+  "ambiguous_scam": {
+    "urgency_without_money_request": [
+      "Ek ghante ke andar reply nahi kiya to account access limit ho jayega.",
+      "Turant respond kijiye warna registration cancel ho jayegi.",
+      "Bahut kam time hai, abhi confirm kijiye warna record flag ho jayega.",
+      "Aadha ghante mein respond kijiye warna account restrict ho jayega.",
+      "Ye final notice hai, ek ghante mein action lijiye."
+    ],
+    "verification_without_otp": [
+      "Bas apna account number aur card ke last four digit bata dijiye.",
+      "Aadhaar number confirm kar dijiye verification complete karne ke liye.",
+      "Apna net banking user ID confirm kar dijiye please.",
+      "Card expiry date aur CVV verify karne ke liye share kar dijiye.",
+      "UPI ID aur bank details confirm kar dijiye verification ke liye."
+    ],
+    "unknown_caller_info_request": [
+      "Bank ki security team se bol raha hoon, balance confirm kar dijiye.",
+      "Government office se bol raha hoon, Aadhaar aur address share kijiye.",
+      "Tax department se bol raha hoon, PAN aur income details bataiye.",
+      "Cyber cell se bol raha hoon, bank details verify karne hain.",
+      "RBI office se bol raha hoon, account aur card details confirm kijiye."
+    ],
+    "vague_banking_notification": [
+      "Account mein suspicious activity hai, secure karne ke liye details share kijiye.",
+      "Account freeze ho jayega agar abhi details confirm nahi kiya.",
+      "Account mein problem hai, turant PIN share kijiye resolve karne ke liye.",
+      "Card flag ho gaya hai, block hone se bachane ke liye number confirm kijiye.",
+      "Account access restrict ho jayega agar OTP confirm nahi kiya abhi."
+    ],
+    "suspicious_survey": [
+      "Ye survey complete karo, cash prize ke liye bank account share karo.",
+      "Survey complete karke chota verification fee pay karo reward ke liye.",
+      "Paid survey hai, payment lene ke liye account details share karo.",
+      "Survey winner ho gaye ho, claim karne ke liye card confirm karo.",
+      "Survey bonus ke liye card number share kar dijiye."
+    ],
+    "callback_requests": [
+      "Turant call back kijiye, account block ho gaya hai.",
+      "Ek ghante mein call back nahi kiya to SIM deactivate ho jayega.",
+      "Turant call back kijiye warna legal action hoga.",
+      "Arrest warrant ke baare mein turant call back kijiye.",
+      "Bank account suspend ho gaya hai, turant call back kijiye."
+    ],
+    "incomplete_impersonation": [
+      "Bank ki fraud prevention team se bol raha hoon, card use ke baare mein.",
+      "Cyber crime department se bol raha hoon complaint ke baare mein.",
+      "RBI se bol raha hoon aapke account mein irregularity ke baare mein.",
+      "Income tax office se bol raha hoon refund verification ke baare mein.",
+      "CBI se bol raha hoon bank account se juda case hai."
+    ],
+    "promotional_offers": [
+      "Prize jeeta hai aapne, chota processing fee pay karke claim kijiye.",
+      "Cash reward mila hai, account share karke receive kijiye.",
+      "Lucky draw jeeta hai, release fee pay karke claim kijiye.",
+      "Guaranteed cashback ke liye card details activate karni hogi.",
+      "Free gift mila hai, delivery charge UPI se pay kar dijiye."
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "label": "SCAM",
+    "scam_type": "CBI digital arrest",
+    "text": "Main CBI headquarters se Inspector Sharma bol raha hoon. Aapke naam ek non-bailable arrest warrant issue hua hai money laundering case mein. Abhi 2 ghante mein 8 lakh rupaye RBI safe account mein transfer karo warna police aapke ghar aa jayegi. Kisi ko mat batana, family ko mat bolna. Apna Aadhaar number aur OTP abhi share karo."
+  },
+  {
+    "id": 2,
+    "label": "SCAM",
+    "scam_type": "Electricity disconnection",
+    "text": "Hello, I am calling from electricity department. Your electricity connection will be permanently disconnected in 45 minutes due to non-payment of dues. To avoid disconnection pay 3500 rupees immediately on this UPI number. Share your account number and CVV for verification. Do not tell anyone about this call."
+  },
+  {
+    "id": 3,
+    "label": "SCAM",
+    "scam_type": "Custom parcel drug scam",
+    "text": "This is Mumbai customs department. We have intercepted a parcel in your name containing narcotics and fake documents. A criminal case and FIR has been registered against you. To avoid arrest you must pay a clearance fee of 50000 rupees immediately. Download AnyDesk and share the 9 digit code so our officer can verify your documents remotely."
+  },
+  {
+    "id": 4,
+    "label": "SCAM",
+    "scam_type": "KYC bank freeze",
+    "text": "Aapka SBI bank account suspicious transactions ki wajah se 2 ghante mein permanently freeze ho jayega. RBI ke guidelines ke mutabik aapko abhi apna PAN card number, Aadhaar number aur net banking password share karna hoga. Turant call par bane rahein, phone mat kaatna warna account block ho jayega."
+  },
+  {
+    "id": 5,
+    "label": "SCAM",
+    "scam_type": "KBC lottery",
+    "text": "Congratulations! Your mobile number has been selected as the winner of KBC lucky draw. You have won 25 lakh rupees. To claim your prize you must pay a processing fee of 15000 rupees via Google Pay to this number. Share your account details and OTP for prize transfer. Keep this confidential until the cheque arrives."
+  },
+  {
+    "id": 6,
+    "label": "SCAM",
+    "scam_type": "Tech support screen share",
+    "text": "Hello I am calling from Microsoft technical support. We have detected a dangerous virus on your computer that is stealing your bank details. To fix this immediately please download TeamViewer and give me the display ID and password. This is urgent, your banking data will be compromised in 30 minutes if we don't act now. Stay on the line."
+  },
+  {
+    "id": 7,
+    "label": "SCAM",
+    "scam_type": "Income tax refund",
+    "text": "Main Income Tax Department se bol raha hoon. Aapka 85000 rupaye ka tax refund pending hai lekin aapke Aadhaar aur PAN details match nahi kar rahe. Refund process karne ke liye abhi apna Aadhaar number, PAN number aur bank account number share karein. Agar aaj nahi kiya toh refund cancel ho jayega aur aap par penalty lagegi."
+  },
+  {
+    "id": 8,
+    "label": "SCAM",
+    "scam_type": "SIM block TRAI",
+    "text": "This is an automated message from TRAI. Your mobile number has been used for illegal activities and will be permanently blocked within 1 hour. To prevent this press 1 to speak with our officer. You must verify your Aadhaar number and pay a reactivation fee of 2000 rupees immediately. Do not disconnect this call or your number will be blacklisted."
+  },
+  {
+    "id": 9,
+    "label": "SCAM",
+    "scam_type": "Digital arrest Supreme Court",
+    "text": "Aap digital arrest mein hain. Supreme Court ne aapke khilaf order pass kiya hai. Aapke bank accounts se illegal transactions payi gayi hain. Agle 3 ghante mein aapko 2 lakh rupaye Bitcoin wallet mein transfer karne honge. Kisi ko mat batao, ghar mein akele raho. Agar phone kaata toh ED ki team seedha aapke ghar aayegi."
+  },
+  {
+    "id": 10,
+    "label": "SCAM",
+    "scam_type": "Insurance fraud",
+    "text": "Hello sir, I am calling from LIC head office. Your insurance policy has matured and you are eligible for 4.5 lakh rupees bonus. To process the claim we need your policy number, Aadhaar, PAN, and bank account number. Also pay a GST processing fee of 8000 rupees via PhonePe right now. This offer expires today only, do not share with anyone."
+  },
+  {
+    "id": 11,
+    "label": "SCAM",
+    "scam_type": "Job offer advance fee",
+    "text": "Congratulations you have been selected for a government job in Railways. Salary 45000 per month. To confirm your seat you must deposit a security fee of 12000 rupees in this account immediately. Send your Aadhaar copy, PAN copy and a photo on this WhatsApp number. Do not tell other candidates about your selection."
+  },
+  {
+    "id": 12,
+    "label": "SCAM",
+    "scam_type": "Romance investment scam",
+    "text": "Hi dear, I have been investing in this crypto platform and made 3 lakh profit last month. I can help you too. Just download this app from the link I send and invest 10000 rupees to start. Share your UPI PIN so I can set up your account. This is very confidential, don't tell your family yet until you see the profits."
+  },
+  {
+    "id": 13,
+    "label": "SCAM",
+    "scam_type": "Fake police FIR",
+    "text": "Main Delhi cyber crime police se Sub Inspector Verma bol raha hoon. Aapke phone number se 47 fraudulent calls ki gayi hain. Aapke khilaf FIR darj ho chuki hai. Abhi 30 minute mein 50000 rupaye fine bhar do warna giraftari warrant issue ho jayega. Apna Aadhaar aur bank details abhi dein. Phone mat kaatna yeh last warning hai."
+  },
+  {
+    "id": 14,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Hello, I am calling from HDFC Bank to confirm your appointment tomorrow at 2 PM at our Connaught Place branch for your home loan discussion. Please bring your original Aadhaar, PAN card, last 3 months salary slips and bank statements. If you need to reschedule please call our helpline at 1800-XXX-XXXX. Have a good day."
+  },
+  {
+    "id": 15,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Aapka Amazon order dispatch ho gaya hai. Estimated delivery kal subah 10 baje tak hogi. Order track karne ke liye Amazon app use karein. Koi bhi problem ho toh customer care par call karein. Dhanyawad Amazon par shopping karne ke liye."
+  },
+  {
+    "id": 16,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "This is a reminder from Dr. Sharma's clinic that you have an appointment scheduled for tomorrow at 11 AM. Please arrive 10 minutes early and bring your previous reports. If you need to cancel please inform us at least 2 hours in advance. Please note we will never ask for any payment over the phone."
+  },
+  {
+    "id": 17,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Hello, this is SBI calling to inform you that your EMI of 12500 rupees for your car loan is due on the 5th of this month. You can pay through SBI YONO app, internet banking, or visit your nearest branch. For any queries please call our official helpline. We will never ask for your OTP or PIN over the phone."
+  },
+  {
+    "id": 18,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Passport office se call kar raha hoon. Aapki passport application process ho gayi hai aur aapka passport next week tak aapke registered address par courier se bhej diya jayega. Koi bhi query ho toh passport seva portal par check karein ya 1800-258-1800 par call karein."
+  },
+  {
+    "id": 19,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Hi this is Rahul from TechCorp HR department. We reviewed your resume and would like to invite you for a technical interview next Tuesday at 3 PM at our Bangalore office. Please bring your original documents and a copy of your resume. No charges are applicable at any stage of our hiring process. Looking forward to meeting you."
+  },
+  {
+    "id": 20,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Aapka Jio recharge successful ho gaya hai. 299 rupaye ka plan activate ho gaya hai jisme 2GB daily data, unlimited calls aur 100 SMS daily milenge. Validity 28 din hai. Koi bhi help ke liye Jio app use karein ya 198 par call karein."
+  },
+  {
+    "id": 21,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "This is a courtesy call from Apollo Hospital. Your health checkup package results are ready. You can collect the reports from our reception between 9 AM to 6 PM, or we can email them to your registered email address. Please bring your patient ID card. For queries call our helpdesk."
+  },
+  {
+    "id": 22,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Hello sir, main aapke building society se bol raha hoon. Kal subah 10 baje se 2 baje tak water supply band rahegi maintenance ke liye. Please pehle se paani store kar lein. Inconvenience ke liye maafi chahte hain. Koi emergency ho toh society office mein contact karein."
+  },
+  {
+    "id": 23,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "This is an automated message from IRCTC. Your train ticket for the journey from Delhi to Mumbai on 15th July has been confirmed. PNR number is 123-456-7890. Please carry a valid photo ID during your journey. Download the IRCTC app to access your ticket. Have a safe journey."
+  },
+  {
+    "id": 24,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Namaskar, main aapke ghar ke paas khul rahe naye supermarket Big Bazaar se bol raha hoon. Hamare grand opening mein aapko aur aapke family ko amanit kiya jata hai. Kal subah 10 baje ribbon cutting ceremony hogi. Pehle 100 customers ko special discount milega. Free parking available hai."
+  },
+  {
+    "id": 25,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Hello, this is feedback call from Zomato. You recently ordered from Punjabi Tadka restaurant. We would like to know about your experience. On a scale of 1 to 5 how would you rate your food quality and delivery time? Your feedback helps us improve our service. This call is purely for feedback, no payment required."
+  },
+  {
+    "id": 26,
+    "label": "SAFE",
+    "scam_type": "none",
+    "text": "Aapka LIC premium bharne ki yaad dilane ke liye call kar raha hoon. Aapki policy number 123456789 ka premium 5 tarikh ko due hai. Aap LIC portal, YONO SBI, ya nearest LIC office mein jakar bhar sakte hain. Hum kabhi bhi phone par OTP ya bank details nahi maangte. Koi bhi query ho toh 022-68276827 par call karein."
+  },
+  {
+    "id": 27,
+    "label": "SUSPICIOUS",
+    "scam_type": "possible reward",
+    "text": "Congratulations! You have been selected for a special cashback offer from your credit card company. To avail 5000 rupees cashback you need to verify your card details. Please share your 16 digit card number and expiry date for verification. This offer is valid only for today."
+  },
+  {
+    "id": 28,
+    "label": "SUSPICIOUS",
+    "scam_type": "urgency without clear threat",
+    "text": "Sir aapka Aadhaar card kisi ne misuse kiya hai. Aapko turant UIDAI helpline par call karna chahiye aur apni details verify karni chahiye. Agar aaj nahi kiya toh aapka Aadhaar suspend ho sakta hai. Kripya apna registered mobile number confirm karein."
+  },
+  {
+    "id": 29,
+    "label": "SUSPICIOUS",
+    "scam_type": "investment pressure",
+    "text": "Hello, I am calling about an exclusive investment opportunity. Minimum investment is 50000 rupees with guaranteed 30 percent monthly returns. This scheme closes today and only 3 spots are left. Transfer the amount to this account by 5 PM today to lock in your returns. Very limited time offer."
+  },
+  {
+    "id": 30,
+    "label": "SUSPICIOUS",
+    "scam_type": "account verification",
+    "text": "Main aapke bank se bol raha hoon. Aapke account mein kuch unusual activity detect hui hai. Security ke liye aapko apna account verify karna hoga. Kya aap apna registered mobile number aur date of birth confirm kar sakte hain? Verification ke baad hum aapko details bhejenge."
+  },
+  {
+    "id": 31,
+    "label": "SUSPICIOUS",
+    "scam_type": "part time job",
+    "text": "We are offering work from home part time jobs with daily payment. Earn 2000 to 5000 rupees per day by doing simple tasks on our app. To register pay a one time membership fee of 999 rupees. After registration you will receive tasks immediately. Limited seats available, join today."
+  },
+  {
+    "id": 32,
+    "label": "SUSPICIOUS",
+    "scam_type": "unknown caller asking details",
+    "text": "Hello sir, I am calling regarding your recent online transaction. We noticed your account was used for a transaction you may not have authorised. To reverse this transaction and secure your account please confirm your account number and the last 4 digits of your debit card. This is urgent to prevent further loss."
+  },
+  {
+    "id": 33,
+    "label": "SUSPICIOUS",
+    "scam_type": "too good to be true offer",
+    "text": "Sir aapka naam government housing scheme mein select hua hai. Aapko 2BHK flat sirf 2 lakh mein milega Delhi mein. Scheme close hone wali hai, abhi 10000 rupaye booking amount transfer karein is account mein. Documents baad mein submit hoge. Bahut limited flats hain."
+  },
+  {
+    "id": 34,
+    "label": "SUSPICIOUS",
+    "scam_type": "social engineering mild",
+    "text": "Hello, your friend Amit asked me to call you. He is in a small financial emergency and needs 15000 rupees urgently. He said you would help. Please transfer the amount to this account and he will return it tomorrow. He cannot call right now as his phone battery is dead."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "demand": 0.65,
+  "urgency": 0.60,
+  "threat": 0.70,
+  "manipulation": 0.15,
+  "share_screen": 0.50,
+  "personal_info": 0.60,
+  "fake_rewards": 0.55
+}

@@ -1,0 +1,198 @@
+{
+  "ambiguous_safe": {
+    "urgency_without_money_request": [
+      "We need your response urgently to keep your appointment slot for tomorrow.",
+      "Please reply as soon as possible so we can confirm your seat reservation.",
+      "This needs to be resolved quickly, please call the branch before 5pm today.",
+      "Kindly respond urgently so we can update your delivery address in time.",
+      "We need an urgent confirmation to hold your table for tonight's booking.",
+      "Please get back to us quickly so we can finalize your appointment time.",
+      "This is time sensitive, we need your RSVP by end of day for the event.",
+      "Urgent reminder: your library book is due today, please return it soon.",
+      "We need to hear back urgently to keep your spot in tomorrow's workshop.",
+      "Please respond quickly, the school needs your consent form before the trip."
+    ],
+    "verification_without_otp": [
+      "Can you confirm your registered email so we can send the invoice?",
+      "We just need to verify your name matches the one on the booking.",
+      "Please confirm your address so we can update our delivery records.",
+      "Can you verify your appointment time so we can prepare in advance?",
+      "We need to confirm your seat number for tomorrow's flight.",
+      "Please verify the spelling of your name for the certificate.",
+      "Can you confirm your preferred delivery slot for this week?",
+      "We're verifying attendee names for the guest list, can you confirm yours?",
+      "Please confirm your membership number so we can update your file.",
+      "Can you verify your mailing address for the newsletter subscription?"
+    ],
+    "unknown_caller_info_request": [
+      "Hi, this is from the local clinic, can I confirm your visit date?",
+      "This is the courier service, can you confirm you're home this afternoon?",
+      "Hello, calling from the school office to confirm your child's pickup time.",
+      "This is the electrician you called, can you share your exact address?",
+      "Hi, I'm calling about the apartment listing, is it still available?",
+      "This is the caterer for the event, can you confirm the guest count?",
+      "Hello, calling from the survey team, do you have a few minutes to chat?",
+      "This is the plumber, can you confirm what time works for the visit?",
+      "Hi, I'm from the housing society office, confirming your parking slot.",
+      "This is the delivery partner, can you confirm the nearest landmark?"
+    ],
+    "vague_banking_notification": [
+      "There's an update regarding your account, please check the mobile app.",
+      "Your bank statement is ready for review on the online portal.",
+      "There's a minor update to your account terms, details are in your inbox.",
+      "Your account has a new feature available, check the app for details.",
+      "There's a routine update to your card benefits this quarter.",
+      "Your account tier has changed, please review the updated terms online.",
+      "There's a scheduled review of your account, no action needed right now.",
+      "Your bank has updated its privacy policy, available on the website.",
+      "There's a small change to your account statement format this month.",
+      "Your account is being reviewed as part of a routine audit, no action needed."
+    ],
+    "suspicious_survey": [
+      "We're conducting a short customer satisfaction survey, got a minute?",
+      "This is a quick survey about your recent shopping experience.",
+      "We'd like your feedback on our service, it'll only take two minutes.",
+      "This is a research call about local transport habits in your area.",
+      "We're running a survey on internet usage, can you spare a few minutes?",
+      "This is about a feedback form for the restaurant you visited recently.",
+      "We're collecting opinions on the new park facilities in your neighborhood.",
+      "This is a short poll about your preferred grocery delivery times.",
+      "We'd like to ask a few questions about your recent hospital visit.",
+      "This is a survey regarding satisfaction with the new bus routes."
+    ],
+    "callback_requests": [
+      "Can you call me back when you have a moment, nothing urgent.",
+      "Please call back the clinic to confirm your appointment for tomorrow.",
+      "The technician asked you to call back to schedule the visit.",
+      "Please return this call at your convenience regarding the delivery.",
+      "Can you call back the office to confirm the meeting time?",
+      "The school asked for a callback regarding the parent meeting.",
+      "Please call the salon back to confirm your booking for Saturday.",
+      "The vet asked you to call back about your pet's checkup results.",
+      "Can you return this call to confirm your seat for the workshop?",
+      "Please call back the property agent about the viewing schedule."
+    ],
+    "incomplete_impersonation": [
+      "Hi, this is calling from the bank regarding your recent card application.",
+      "Hello, this is from the telecom provider about your recent plan upgrade.",
+      "This is calling from the insurance company about your policy renewal.",
+      "Hi, this is from the courier company about your recent shipment.",
+      "This is calling from the electricity board about your recent complaint.",
+      "Hello, this is from customer service following up on your recent query.",
+      "This is calling from the housing office about your maintenance request.",
+      "Hi, this is from the airline regarding your upcoming flight booking.",
+      "This is calling from the gym regarding your membership renewal.",
+      "Hello, this is from the clinic following up on your recent visit."
+    ],
+    "promotional_offers": [
+      "We have a special discount for our loyal customers this month.",
+      "You're eligible for a free upgrade on your next subscription renewal.",
+      "As a valued customer, you get early access to our new collection.",
+      "We're offering a seasonal discount on all orders this week.",
+      "You've been selected for a loyalty reward on your next purchase.",
+      "Enjoy a complimentary dessert with your next visit to our restaurant.",
+      "You qualify for a free trial extension on your current plan.",
+      "We're giving loyal members early access to the flash sale tomorrow.",
+      "You get a bonus month free for renewing your subscription early.",
+      "As a returning customer, you get priority booking for the new season."
+    ]
+  },
+  "ambiguous_scam": {
+    "urgency_without_money_request": [
+      "You must respond within the next hour or your account access will be limited.",
+      "This is extremely urgent, failure to reply today will affect your service.",
+      "We need an immediate response or your registration will be cancelled.",
+      "Act now, this offer and your account status expire within the hour.",
+      "You have very limited time to confirm before your record gets flagged.",
+      "This requires your immediate attention or further action will be taken.",
+      "Respond within the next thirty minutes to avoid account restrictions.",
+      "Time is running out, confirm now or lose your current benefits.",
+      "Immediate response needed or we will be forced to suspend your access.",
+      "This is your final notice, act within the hour to avoid consequences."
+    ],
+    "verification_without_otp": [
+      "Can you just confirm your date of birth and mother's maiden name for us?",
+      "We need to verify your full bank account number to update our records.",
+      "Please confirm your card number so we can validate your recent activity.",
+      "Can you tell us your registered mobile number and PAN for verification?",
+      "We just need your Aadhaar number to complete the account verification.",
+      "Please share your account number and the last four digits of your card.",
+      "Can you confirm your net banking user ID for our verification process?",
+      "We need your full name, date of birth, and account number to proceed.",
+      "Please verify by sharing your card expiry date and CVV for confirmation.",
+      "Can you confirm your UPI ID and linked bank details for verification?"
+    ],
+    "unknown_caller_info_request": [
+      "Hello, I'm calling from your bank's security team, can you confirm your balance?",
+      "This is from the government office, can you share your Aadhaar and address?",
+      "Hi, I'm from the tax department, can you confirm your PAN and income details?",
+      "This is your telecom provider's security team, share your SIM number please.",
+      "Hello, calling from the cyber cell, we need your bank details to verify a case.",
+      "This is from the RBI office, can you confirm your account and card details?",
+      "Hi, I'm calling from the loan department, share your salary account details.",
+      "This is from the insurance claims office, confirm your policy and bank number.",
+      "Hello, calling from customs, we need your Aadhaar to release your package.",
+      "This is your card provider's fraud team, please confirm your card details now."
+    ],
+    "vague_banking_notification": [
+      "There's suspicious activity on your account, share your details to secure it.",
+      "Your account will be frozen unless you confirm your details immediately.",
+      "We detected an issue with your account, share your PIN to resolve it now.",
+      "Your card has been flagged, confirm your card number to avoid blocking.",
+      "There's a problem with your account, verify your login details right away.",
+      "Your account access will be restricted unless you confirm your OTP now.",
+      "We noticed unauthorized activity, share your account password to secure it.",
+      "Your account will be suspended today unless you confirm your bank PIN.",
+      "There's a hold on your account, share your net banking password to release it.",
+      "Your card is at risk, confirm the CVV now to prevent it from being blocked."
+    ],
+    "suspicious_survey": [
+      "This survey qualifies you for a cash prize, just share your bank account first.",
+      "Complete this survey and pay a small verification fee to claim your reward.",
+      "This is a paid survey, share your account details to receive the payment.",
+      "You've been selected for a survey reward, confirm your card to claim it.",
+      "This research study pays participants, share your UPI ID to get started.",
+      "This survey unlocks a cashback offer, just verify your bank account first.",
+      "Complete this quick survey and share your OTP to receive your gift voucher.",
+      "This is a lucky survey winner call, confirm your account to claim the prize.",
+      "This paid opinion poll requires your bank details to process the payment.",
+      "You qualify for a survey bonus, share your card number to receive it."
+    ],
+    "callback_requests": [
+      "Please call this number back urgently regarding your blocked account.",
+      "Call back immediately or your SIM card will be deactivated today.",
+      "You must call back this number within an hour to avoid legal action.",
+      "Please call back regarding your pending arrest warrant immediately.",
+      "Call this number back now or your parcel will be seized by customs.",
+      "You need to call back urgently about your suspended bank account.",
+      "Please return this call immediately regarding your tax default notice.",
+      "Call back now to avoid your electricity connection being disconnected.",
+      "You must call back within the hour regarding your court summons.",
+      "Please call back urgently, your loan account is under investigation."
+    ],
+    "incomplete_impersonation": [
+      "Hi, this is from the bank's fraud prevention team about your recent card use.",
+      "Hello, this is calling from the cyber crime department about your complaint.",
+      "This is from the RBI regarding irregularities found in your account.",
+      "Hi, this is from the income tax office about your pending refund verification.",
+      "This is calling from the customs department about a package under your name.",
+      "Hello, this is from the telecom regulator about your SIM card verification.",
+      "This is from the CBI regarding a case linked to your bank account.",
+      "Hi, this is from the courier company, your parcel is held pending your details.",
+      "This is calling from the police cyber cell about suspicious activity on your ID.",
+      "Hello, this is from the passport office regarding an issue with your application."
+    ],
+    "promotional_offers": [
+      "You've won a special prize, just pay a small processing fee to claim it.",
+      "Congratulations, you're selected for a cash reward, share your account to receive it.",
+      "Claim your lucky draw winnings by paying a nominal release fee today.",
+      "You qualify for a guaranteed cashback, share your card details to activate it.",
+      "You've been chosen for a free gift, just cover the delivery charge via UPI.",
+      "This exclusive offer requires an advance payment to unlock your reward.",
+      "You've won a lottery prize, share your bank details to process the transfer.",
+      "Claim your bonus reward by paying the GST amount through this link.",
+      "You're eligible for a guaranteed investment return, share your account to start.",
+      "You've been selected for a cash voucher, pay the processing charge to claim it."
+    ]
+  }
+}

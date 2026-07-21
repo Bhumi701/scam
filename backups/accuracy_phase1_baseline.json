@@ -1,0 +1,324 @@
+{
+  "accuracy": 97.06,
+  "precision": 92.86,
+  "recall": 100.0,
+  "f1_score": 0.963,
+  "total_cases": 34,
+  "correct": 33,
+  "wrong": 1,
+  "true_positives": 13,
+  "false_negatives": 0,
+  "true_negatives": 12,
+  "false_positives": 1,
+  "suspicious_correct": 8,
+  "suspicious_wrong": 0,
+  "grade": "EXCELLENT ★★★★★",
+  "cases": [
+    {
+      "id": 1,
+      "label": "SCAM",
+      "scam_type": "CBI digital arrest",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 5,
+      "correct": true
+    },
+    {
+      "id": 2,
+      "label": "SCAM",
+      "scam_type": "Electricity disconnection",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 5,
+      "correct": true
+    },
+    {
+      "id": 3,
+      "label": "SCAM",
+      "scam_type": "Custom parcel drug scam",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 4,
+      "label": "SCAM",
+      "scam_type": "KYC bank freeze",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 3,
+      "correct": true
+    },
+    {
+      "id": 5,
+      "label": "SCAM",
+      "scam_type": "KBC lottery",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 6,
+      "label": "SCAM",
+      "scam_type": "Tech support screen share",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 3,
+      "correct": true
+    },
+    {
+      "id": 7,
+      "label": "SCAM",
+      "scam_type": "Income tax refund",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 3,
+      "correct": true
+    },
+    {
+      "id": 8,
+      "label": "SCAM",
+      "scam_type": "SIM block TRAI",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 9,
+      "label": "SCAM",
+      "scam_type": "Digital arrest Supreme Court",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 5,
+      "correct": true
+    },
+    {
+      "id": 10,
+      "label": "SCAM",
+      "scam_type": "Insurance fraud",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 11,
+      "label": "SCAM",
+      "scam_type": "Job offer advance fee",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 5,
+      "correct": true
+    },
+    {
+      "id": 12,
+      "label": "SCAM",
+      "scam_type": "Romance investment scam",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 13,
+      "label": "SCAM",
+      "scam_type": "Fake police FIR",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 4,
+      "correct": true
+    },
+    {
+      "id": 14,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.27,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 15,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.26,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 16,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.22,
+      "signals_triggered": 1,
+      "correct": true
+    },
+    {
+      "id": 17,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.21,
+      "signals_triggered": 1,
+      "correct": true
+    },
+    {
+      "id": 18,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SUSPICIOUS",
+      "score": 0.52,
+      "signals_triggered": 0,
+      "correct": false
+    },
+    {
+      "id": 19,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.45,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 20,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.45,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 21,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.23,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 22,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.48,
+      "signals_triggered": 1,
+      "correct": true
+    },
+    {
+      "id": 23,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.41,
+      "signals_triggered": 1,
+      "correct": true
+    },
+    {
+      "id": 24,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.47,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 25,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.2,
+      "signals_triggered": 1,
+      "correct": true
+    },
+    {
+      "id": 26,
+      "label": "SAFE",
+      "scam_type": "none",
+      "predicted": "SAFE",
+      "score": 0.49,
+      "signals_triggered": 0,
+      "correct": true
+    },
+    {
+      "id": 27,
+      "label": "SUSPICIOUS",
+      "scam_type": "possible reward",
+      "predicted": "SCAM",
+      "score": 0.82,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 28,
+      "label": "SUSPICIOUS",
+      "scam_type": "urgency without clear threat",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 3,
+      "correct": true
+    },
+    {
+      "id": 29,
+      "label": "SUSPICIOUS",
+      "scam_type": "investment pressure",
+      "predicted": "SCAM",
+      "score": 0.82,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 30,
+      "label": "SUSPICIOUS",
+      "scam_type": "account verification",
+      "predicted": "SUSPICIOUS",
+      "score": 0.55,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 31,
+      "label": "SUSPICIOUS",
+      "scam_type": "part time job",
+      "predicted": "SCAM",
+      "score": 0.82,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 32,
+      "label": "SUSPICIOUS",
+      "scam_type": "unknown caller asking details",
+      "predicted": "SCAM",
+      "score": 0.85,
+      "signals_triggered": 3,
+      "correct": true
+    },
+    {
+      "id": 33,
+      "label": "SUSPICIOUS",
+      "scam_type": "too good to be true offer",
+      "predicted": "SUSPICIOUS",
+      "score": 0.55,
+      "signals_triggered": 2,
+      "correct": true
+    },
+    {
+      "id": 34,
+      "label": "SUSPICIOUS",
+      "scam_type": "social engineering mild",
+      "predicted": "SUSPICIOUS",
+      "score": 0.52,
+      "signals_triggered": 1,
+      "correct": true
+    }
+  ]
+}
