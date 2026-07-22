@@ -3,8 +3,11 @@ venv/
 .venv/
 
 # Python cache
+env/
 __pycache__/
 *.py[cod]
+*.pyc
+.env
 
 # IDE
 .vscode/
