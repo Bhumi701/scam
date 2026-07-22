@@ -1,4 +1,4 @@
-# Dockerfile for Hugging Face Spaces (Docker SDK, free CPU tier)
+# Dockerfile for the Streamlit Scam Detector app
 FROM python:3.11-slim
 
 WORKDIR /app
@@ -16,9 +16,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the project (core/, api/, config/, models/, etc.)
 COPY . .
 
-# HF Spaces routes traffic to port 7860 by default
-ENV PORT=7860
-EXPOSE 7860
+ENV PORT=8501
+EXPOSE 8501
 
-# Adjust "api.main:app" if your actual entry point differs
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.headless=true"]
